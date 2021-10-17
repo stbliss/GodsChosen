@@ -140,7 +140,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="../website/photos/slider_img3.jpg" alt="Construction">
+                        <img src=".../../photos/slider_img3.jpg" alt="Construction">
                         <div class="overlay">
                             <div class="carousel-caption">
                                 <h3>We are Certified Engineers</h3>
@@ -244,7 +244,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0831.jpg" alt="Our Services" />
+                            <img src=".../../photos/SAM_0831.jpg" alt="Our Services" />
                             <h3>CIVIL ENGINEERING</h3>
                             <p>Civil Engineering project delivered by God's Chosen Erector Co Ltd from Niger Flour Mill Calabar/El-Alan Construction company</p>
                             <a href="#services" class="btn know_btn">know more</a>
@@ -252,7 +252,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0823.JPG" alt="Our Services" />
+                            <img src=".../../photos/SAM_0823.JPG" alt="Our Services" />
                             <h3>RENOVATION</h3>
                             <p>Silo fabrication and erecting at Premier Feed Industry calabar delivered by God's Chosen Erector Co. Ltd </p>
                             <a href="#services" class="btn know_btn">know more</a>
@@ -260,7 +260,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0651.JPG" alt="Our Services" />
+                            <img src=".../../photos/SAM_0651.JPG" alt="Our Services" />
                             <h3>SILO CONSTRUCTION</h3>
                             <p>We are equiped with the manpower and the machineries to carryout all levels of construction. Our construction materials are carefully selected to ensure structural quality and maximium effectiveness.</p>
                             <a href="#services" class="btn know_btn">know more</a>
@@ -287,7 +287,7 @@
                 <div class="grid">
                     <div class="grid-sizer"></div>
                     <div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
-                        <img alt="" src="../website/photos/SAM_1477.JPG" >
+                        <img alt="" src=".../../photos/SAM_1477.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href=".../../photos/SAM_1477.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
@@ -295,7 +295,7 @@
                     </div>
 
                     <div class="grid-item buildings interior isolation">
-                        <img alt="" src="../website/photos/SAM_1075.JPG" >
+                        <img alt="" src=".../../photos/SAM_1075.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href="../website/photos/SAM_1075.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
@@ -303,7 +303,7 @@
                     </div>
 
                     <div class="grid-item interior plumbing isolation">
-                        <img alt="" src="../website/photos/SAM_1017.JPG" >
+                        <img alt="" src=".../../photos/SAM_1017.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href="../website/photos/SAM_1017.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
@@ -311,7 +311,7 @@
                     </div>
 
                     <div class="grid-item isolation buildings">
-                        <img alt="" src="../website/photos/SAM_1235.JPG" >
+                        <img alt="" src=".../../photos/SAM_1235.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href=".../../photos/SAM_1235.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
