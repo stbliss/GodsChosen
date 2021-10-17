@@ -53,12 +53,12 @@
                     <ul class="list-inline info">
                         <li><a href="#"><span class="fa fa-phone"></span> +234 - 7067 - 037 - 855</a></li>
                         <li><a href="#"><span class="fa fa-envelope"></span> godschosenerector35@yahoo.com</a></li>
-                        <li><a href="#"><span class="fa fa-clock-o"></span> Mon - Sat 8:00 - 17:00</a></li>
+                        <li><a href="#"><span class="fa fa-clock-o"></span> Mon - Sat 9:00 - 19:00</a></li>
                     </ul>
                     <ul class="list-inline social_icon">
-                        <li><a href="https://web.facebook.com/Gods-Chosen-Erector-Company-Limited-270801288105016"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-instagram"></span></a></li>
+                        <li><a href=""><span class="fa fa-facebook"></span></a></li>
                         <li><a href=""><span class="fa fa-twitter"></span></a></li>
+                        <li><a href=""><span class="fa fa-behance"></span></a></li>
                         <li><a href=""><span class="fa fa-dribbble"></span></a></li>
                         <li><a href=""><span class="fa fa-linkedin"></span></a></li>
                         <li><a href=""><span class="fa fa-youtube"></span></a></li>
@@ -96,8 +96,7 @@
                     <!-- Navigation -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav menu">
-                            <li><a href="">Home</a></li>
-                            <li><a href="#services">Directors</a></li>                    
+                            <li><a href="">Home</a></li>                    
                             <li><a href="#about">About Us</a></li>
                             <li><a href="#services">Services</a></li>
                             <li><a href="#portfolio">Portfolio</a></li>
@@ -121,7 +120,7 @@
                                 <h3>We are Certified Engineers</h3>
                                 <h1>Construction Services</h1>
                                 <h1 class="second_heading">Creative & Professional</h1>
-                                <p>We are a group of certified engineers who are knowledgable enough in our profession, we have value for money and delivers quality with commitment and professionalism. However our dedication towards exhibiting high skill in project delivery is constantly renewed to position our company perfectly for effective services and project delivery within cost and stipulated time.</p>
+                                <p>We are a group of certifild engineers who are knowledgable enough in our profession, we have value for money and delivers quality with commitment and professionalism. However our dedication towards exhibiting high skill in project delivery is constantly renewed to position our company perfectly for effective services and project delivery within cost and stipulated time.</p>
                                 <a  class="btn know_btn">know more</a>
                                 <a  class="btn know_btn">view project</a>
                             </div>					
@@ -141,7 +140,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="../website/photos/slider_img3.jpg" alt="Construction">
+                        <img src="" alt="Construction">
                         <div class="overlay">
                             <div class="carousel-caption">
                                 <h3>We are Certified Engineers</h3>
@@ -179,14 +178,14 @@
                         <div class="about_content">
                             <h2>Welcome to Our Company</h2>
                             <h3>God's Chosen Erector Co. Limited</h3>
-                            <p>God's Chosen Erector Co. Ltd is an all round Engineering services company, Delivering value-added engineering projects in Nigeria, We are into Utility Engineering, Structural Engineering, Civil work and development, Engineerring and Mechanical services, Procurement, Construction and project management and on. We are home based in nigeria, africa.</p>
+                            <p>God's Chosen Erector Co. Ltd is an all round Engineering services company, Delivering value-added engineering projects in Nigeria, We are into Utility Engineering, Structural Engineering, Civil work and development, Engineerring and Mechanical services, Procurement, Construction and project management and on. We are home based in nigeria, africa</p>
                             <p>Our firm has the ability to provide clients with complete range of services including planning, technical studies, engineering designs, purchasing as well as construction project management and consultancy services, At God's Chosen Erector Co. Ltd we ensure that all project are successfully completed to specification and in line with the company's sense of responsibility towards our client and host communites </p>
                             <a  class="btn know_btn">know more</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-lg-offset-1">
                         <div class="about_banner">
-                            <img src="../website/photos/safety man.jpg" alt="" />
+                            <img src="../Gods Choosen/photos/safety man.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -245,24 +244,24 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0831.jpg" alt="Our Services" />
+                            <img src=".../../photos/SAM_0831.jpg" alt="Our Services" />
                             <h3>CIVIL ENGINEERING</h3>
-                            <p>Civil Engineering project delivered by God's Chosen Erector Co Ltd from Niger Flour Mill Calabar/El-Alan Construction company</p>
+                            <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
                             <a href="#services" class="btn know_btn">know more</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0823.JPG" alt="Our Services" />
+                            <img src=".../../photos/SAM_0822.JPG" alt="Our Services" />
                             <h3>RENOVATION</h3>
-                            <p>Silo fabrication and erecting at Premier Feed Industry calabar delivered by God's Chosen Erector Co. Ltd </p>
+                            <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
                             <a href="#services" class="btn know_btn">know more</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src="../website/photos/SAM_0651.JPG" alt="Our Services" />
-                            <h3>SILO CONSTRUCTION</h3>
+                            <img src=".../../photos/SAM_0651.JPG" alt="Our Services" />
+                            <h3>CONSTRUCTION MANAGEMENT</h3>
                             <p>We are equiped with the manpower and the machineries to carryout all levels of construction. Our construction materials are carefully selected to ensure structural quality and maximium effectiveness.</p>
                             <a href="#services" class="btn know_btn">know more</a>
                         </div>
@@ -279,8 +278,8 @@
 
                 <div id="filters">
                     <button class="button is-checked" data-filter="*">Show All</button>
-                    <button class="button" data-filter=".buildings">Building Silo</button>
-                    <button class="button" data-filter=".interior">Pipeline Welding</button>
+                    <button class="button" data-filter=".buildings">Buildings</button>
+                    <button class="button" data-filter=".interior">Interior Design</button>
                     <button class="button" data-filter=".isolation">Construction</button>
                     <button class="button" data-filter=".Fabrication">Fabrication</button>
                 </div>
@@ -288,7 +287,7 @@
                 <div class="grid">
                     <div class="grid-sizer"></div>
                     <div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
-                        <img alt="" src="../website/photos/SAM_1477.JPG" >
+                        <img alt="" src=".../../photos/SAM_1477.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href=".../../photos/SAM_1477.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
@@ -296,23 +295,23 @@
                     </div>
 
                     <div class="grid-item buildings interior isolation">
-                        <img alt="" src="../website/photos/SAM_1075.JPG" >
+                        <img alt="" src=".../../photos/SAM_1075.JPG" >
                         <div class="portfolio_hover_area">
-                            <a class="fancybox" href="../website/photos/SAM_1075.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                            <a class="fancybox" href=".../../photos/SAM_1075.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
                         </div>   
                     </div>
 
                     <div class="grid-item interior plumbing isolation">
-                        <img alt="" src="../website/photos/SAM_1017.JPG" >
+                        <img alt="" src=".../../photos/SAM_1030.JPG" >
                         <div class="portfolio_hover_area">
-                            <a class="fancybox" href="../website/photos/SAM_1017.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                            <a class="fancybox" href=".../../photos/SAM_1030.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
                         </div>  
                     </div>
 
                     <div class="grid-item isolation buildings">
-                        <img alt="" src="../website/photos/SAM_1235.JPG" >
+                        <img alt="" src=".../../photos/SAM_1235.JPG" >
                         <div class="portfolio_hover_area">
                             <a class="fancybox" href=".../../photos/SAM_1235.JPG" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                             <a href="#"><span class="fa fa-link"></span></a>
@@ -334,81 +333,34 @@
         <section id="testimonial">
             <div class="container text-center testimonial_area">
                 <h2>Customer Reviews</h2>
-                <p>Below are beautiful reviews from our satisfied clients who are overwhelmed with the level of our professionalism and commitment towards projects</p>
+                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
 
                 <div class="row">
                     <div class="col-md-4">
                         <div class="testimonial_item">
                             <div class="testimonial_content text-left">
-                                <p>God's Chosen Erector Co. Ltd worked with us to overcome the various project challenges and completed the job on time and within budget. God's Chosen Erector has always been a valuable resource for us. we would highly recommend them for your upcoming projects.</p>
+                                <p>God's Chosen Erector Co. Ltd worked with us to overcome the various project challenges and completed the job on time and within budget. God's Chosen Erector has always been a valuable resource for us. we would highly recommend them for your upcoming projectst.</p>
                             </div>
-                            <!-- <img src=".../../photos/reviewer4jpg" /> -->
-                            <p class="worker_name">Fabian Ejiofor</p>
+                            <img src=".../../photos/reviewer4.jpg" alt="Testimonial" />
+                            <p class="worker_name">john smith</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <p>I am proud of the thoughtfulness, commitment and quality of work God's Chosen Erector has accomplished through construction. Team work is vital to any project, God's Chosen Erector teams worked well together to achieve a set goal within a stipulated time. </p>
+                                <p>I am proud of the thoughtfulness commitment and quality of work the God's Chosen Erector has accomplished through construction. Team work is vital to any project, God's Chosen Erector teams worked well together to achieve a set goal within a stipulated time. </p>
                             </div>
-                            <!-- <img src=".../../photos/reviewer3jpg" /> -->
-                            <p class="worker_name">Maria Adewale</p>
+                            <img src=".../../photos/reviewer3 - Copy.jpg" alt="Testimonial" />
+                            <p class="worker_name">john smith</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <p>pressure was put on this team from the day we broke ground and they heeded the call. This dedicated construction professionals show what great teamwork is all about and the final project was indeed explicit. They are beautiful people. I'm glad I had this opportunity of working with them.</p>
+                                <p>pressure was put on this team from the day we broke ground and they heeded the call. This dedicated construction professionals show what great teamwork is all about and the final project was indeed explicit.</p>
                             </div>
-                            <!-- <img src=".../../photos/reviewer2png" /> -->
-                            <p class="worker_name">James Maduekeh</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section><!-- Testimonial end -->
-
-        <!-- Testimonial -->
-        <section id="testimonial">
-            <div class="container text-center testimonial_area">
-                <h2>Our Team</h2>
-                <h4>Below is our amazing team of experts and adminstrators</h4>
-
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="testimonial_item">
-                            <div class="testimonial_content text-left">
-                              <h5>Pst. Ifuru Faith Nwankechukwu</h5>
-                            </div>
-                            <img src=".../../photos/CEO.jpg" alt="Testimonial" />
-                            <p class="worker_name">CEO/Director General</p>
-                        </div>
-                        </div>
-                    <div class="col-md-3">
-                        <div class="testimonial_item">
-                            <div class="testimonial_content text-left">
-                                <h5>Mrs Ifuru Lucky Faith</h5>
-                            </div>
-                            <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
-                            <p class="worker_name">Asst. Director General</p>
-                    </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="testimonial_item">
-                            <div class="testimonial_content">
-                                <h5>Mr Ifuru Albert Faith</h5>
-                            </div>
-                            <img src=".../../photos/Director1.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="testimonial_item">
-                            <div class="testimonial_content">
-                                <h5>Mr Theophilus Nduka</h5>
-                            </div>
-                            <img src=".../../photos/Director2.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
+                            <img src=".../../photos/reviewer2.png" alt="Testimonial" />
+                            <p class="worker_name">john smith</p>
                         </div>
                     </div>
                 </div>
@@ -448,10 +400,10 @@
                         <div class="footer_item">
                             <h4>About Company</h4>
                             <img class="logo" src="images/logo.png" alt="Construction" />
-                            <p>God's Chosen Erector Co. Ltd is an all round Engineering services company, Delivering value-added engineering projects in Nigeria. We are into Utility Engineering, Structural Engineering, Civil work and development, Engineerring and Mechanical services, Procurement, Construction, project management and so on. We are home based in Nigeria, Africa.</p>
+                            <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem</p>
 
                             <ul class="list-inline footer_social_icon">
-                                <li><a href="https://web.facebook.com/Gods-Chosen-Erector-Company-Limited-270801288105016"><span class="fa fa-facebook"></span></a></li>
+                                <li><a href=""><span class="fa fa-facebook"></span></a></li>
                                 <li><a href=""><span class="fa fa-twitter"></span></a></li>
                                 <li><a href=""><span class="fa fa-youtube"></span></a></li>
                                 <li><a href=""><span class="fa fa-google-plus"></span></a></li>
@@ -461,13 +413,13 @@
                     </div>
                     <div class="col-lg-2 col-sm-5">
                         <div class="footer_item">
-                            <h4>Directors</h4>
+                            <h4>Explore link</h4>
                             <ul class="list-unstyled footer_menu">
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Our services</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Meet our team</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Help center</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Contact</a>
+                                <li><a href=""><span class="fa fa-play"></span> Our services</a>
+                                <li><a href=""><span class="fa fa-play"></span> Meet our team</a>
                                 <li><a href=""><span class="fa fa-play"></span> Forum</a>
+                                <li><a href=""><span class="fa fa-play"></span> Help center</a>
+                                <li><a href=""><span class="fa fa-play"></span> Contact Cekas</a>
                                 <li><a href=""><span class="fa fa-play"></span> Privacy Policy</a>
                                 <li><a href=""><span class="fa fa-play"></span> Cekas terms</a>
                                 <li><a href=""><span class="fa fa-play"></span> Site map</a>
@@ -476,16 +428,12 @@
                     </div>
                     <div class="col-lg-3 col-sm-7">
                         <div class="footer_item">
-                            <h4>Our Partners</h4>
+                            <h4>Latest post</h4>
                             <ul class="list-unstyled post">
-                                <li><a href=""><span class="fa fa-play"></span> Optilog Nigeria Limited</a>
-                                <li><a href=""><span class="fa fa-play"></span> Niger Flour Mill Calabar</a>
-                                <li><a href=""><span class="fa fa-play"></span> Unicem Cement Calabar</a>
-                                <li><a href=""><span class="fa fa-play"></span> HoneyWell Flour Mill Lagos</a>
-                                <li><a href=""><span class="fa fa-play"></span> EL-Alan Construction Company</a>
-                                <li><a href=""><span class="fa fa-play"></span> Premier Feed Industry Calabar</a>
-                                <li><a href=""><span class="fa fa-play"></span> Dangote Flour Mill Apapa Lagos</a>
-                                <li><a href=""><span class="fa fa-play"></span> Orascoma Construction Industry Nigeria</a>
+                                <li><a href=""><span class="date">20 <small>AUG</small></span>  Luptatum omittantur duo ne mpetus indoctum</a></li>
+                                <li><a href=""><span class="date">20 <small>AUG</small></span>  Luptatum omittantur duo ne mpetus indoctum</a></li>
+                                <li><a href=""><span class="date">20 <small>AUG</small></span>  Luptatum omittantur duo ne mpetus indoctum</a></li>
+                                <li><a href=""><span class="date">20 <small>AUG</small></span>  Luptatum omittantur duo ne mpetus indoctum</a></li>
                             </ul>
                         </div>
                     </div>
@@ -494,8 +442,7 @@
                             <h4>Contact us</h4>
                             <ul class="list-unstyled footer_contact">
                                 <li><a href=""><span class="fa fa-map-marker"></span> 3 Cornel Bruno Close By Water Bus-Stop, Ipaja Road, Alimosho Lagos.</a></li>
-                                <li><a href=""><span class="fa fa-envelope"></span> godschosenerector35@yahoo.com</a></li>
-                                <li><a href=""><span class="fa fa-envelope"></span> godschosenerectorcompany@gmail.com</a></li>
+                                <li><a href=""><span class="fa fa-envelope"></span> godschosenerector35.com</a></li>
                                 <li><a href=""><span class="fa fa-mobile"></span><p>+234 - 7067 - 037 - 855 <br/>
                                 <li><a href=""><span class="fa fa-mobile"></span><p>+234 - 8135 - 353 - 682 <br/>
                             </ul>
@@ -511,7 +458,7 @@
                     <i class="fa fa-heart"></i>
                     by 
                     <a target="_blank" href="https://stbliss.herokuapp.com/">Stbliss</a> 
-                    2021.
+                    2021. All Rights Reserved
                 </p>
             </div><!-- Footer bottom end -->
         </footer><!-- Footer end -->
