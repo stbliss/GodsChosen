@@ -96,8 +96,7 @@
                     <!-- Navigation -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav menu">
-                            <li><a href="">Home</a></li>
-                            <li><a href="#services">Directors</a></li>                    
+                            <li><a href="">Home</a></li>      
                             <li><a href="#about">About Us</a></li>
                             <li><a href="#services">Services</a></li>
                             <li><a href="#portfolio">Portfolio</a></li>
@@ -343,7 +342,8 @@
                                 <p>God's Chosen Erector Co. Ltd worked with us to overcome the various project challenges and completed the job on time and within budget. God's Chosen Erector has always been a valuable resource for us. we would highly recommend them for your upcoming projects.</p>
                             </div>
                             <!-- <img src=".../../photos/reviewer4jpg" /> -->
-                            <p class="worker_name">Fabian Ejiofor</p>
+                            <p class="worker_name">Engr. Bala</p>
+                            <p class="worker_name">Project Manager El-Alan Construction</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -352,7 +352,8 @@
                                 <p>I am proud of the thoughtfulness, commitment and quality of work God's Chosen Erector has accomplished through construction. Team work is vital to any project, God's Chosen Erector teams worked well together to achieve a set goal within a stipulated time. </p>
                             </div>
                             <!-- <img src=".../../photos/reviewer3jpg" /> -->
-                            <p class="worker_name">Maria Adewale</p>
+                            <p class="worker_name">Mr Demitris</p>
+                            <p class="worker_name">Project Coordinator Flour Mill Calabar</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -361,7 +362,8 @@
                                 <p>pressure was put on this team from the day we broke ground and they heeded the call. This dedicated construction professionals show what great teamwork is all about and the final project was indeed explicit. They are beautiful people. I'm glad I had this opportunity of working with them.</p>
                             </div>
                             <!-- <img src=".../../photos/reviewer2png" /> -->
-                            <p class="worker_name">James Maduekeh</p>
+                            <p class="worker_name">Madam Christy</p>
+                            <p class="worker_name"></p>
                         </div>
                     </div>
                 </div>
@@ -391,7 +393,95 @@
                             </div>
                             <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
                             <p class="worker_name">Asst. Director General</p>
+                       </div>
                     </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <h5>Mr Ifuru Albert Faith</h5>
+                            </div>
+                            <img src=".../../photos/Director1.jpg" alt="Testimonial" />
+                            <p class="worker_name">Director</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <h5>Mr Theophilus Nduka</h5>
+                            </div>
+                            <img src=".../../photos/Director2.jpg" alt="Testimonial" />
+                            <p class="worker_name">Director</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- Testimonial end -->
+
+         <!-- Testimonial -->
+         <section id="testimonial">
+            <div class="container text-center testimonial_area">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content text-left">
+                              <h5>Pst. Ifuru Faith Nwankechukwu</h5>
+                            </div>
+                            <img src=".../../photos/CEO.jpg" alt="Testimonial" />
+                            <p class="worker_name">CEO/Director General</p>
+                        </div>
+                        </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content text-left">
+                                <h5>Mrs Ifuru Lucky Faith</h5>
+                            </div>
+                            <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
+                            <p class="worker_name">Asst. Director General</p>
+                       </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <h5>Mr Ifuru Albert Faith</h5>
+                            </div>
+                            <img src=".../../photos/Director1.jpg" alt="Testimonial" />
+                            <p class="worker_name">Director</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <h5>Mr Theophilus Nduka</h5>
+                            </div>
+                            <img src=".../../photos/Director2.jpg" alt="Testimonial" />
+                            <p class="worker_name">Director</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- Testimonial end -->
+
+         <!-- Testimonial -->
+         <section id="testimonial">
+            <div class="container text-center testimonial_area">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content text-left">
+                              <h5>Pst. Ifuru Faith Nwankechukwu</h5>
+                            </div>
+                            <img src=".../../photos/CEO.jpg" alt="Testimonial" />
+                            <p class="worker_name">CEO/Director General</p>
+                        </div>
+                        </div>
+                    <div class="col-md-3">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content text-left">
+                                <h5>Mrs Ifuru Lucky Faith</h5>
+                            </div>
+                            <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
+                            <p class="worker_name">Asst. Director General</p>
+                       </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
