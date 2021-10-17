@@ -244,7 +244,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src=".../../photos/SAM_0831.jpg" alt="Our Services" />
+                            <img src=".../../photos/SAM_0830.jpg" alt="Our Services" />
                             <h3>CIVIL ENGINEERING</h3>
                             <p>Civil Engineering project delivered by God's Chosen Erector Co Ltd from Niger Flour Mill Calabar/El-Alan Construction company</p>
                             <a href="#services" class="btn know_btn">know more</a>
