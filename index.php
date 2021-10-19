@@ -185,7 +185,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-lg-offset-1">
                         <div class="about_banner">
-                            <img src="../website/photos/safety man.jpg" alt="" />
+                            <img src=".../../photos/safety man.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -244,7 +244,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="service_item">
-                            <img src=".../../photos/SAM_0830.jpg" alt="Our Services" />
+                            <img src=".../../photos/SAM_0830.JPG" alt="Our Services" />
                             <h3>CIVIL ENGINEERING</h3>
                             <p>Civil Engineering project delivered by God's Chosen Erector Co Ltd from Niger Flour Mill Calabar/El-Alan Construction company</p>
                             <a href="#services" class="btn know_btn">know more</a>
@@ -363,7 +363,7 @@
                             </div>
                             <!-- <img src=".../../photos/reviewer2png" /> -->
                             <p class="worker_name">Madam Christy</p>
-                            <p class="worker_name"></p>
+                            <p class="worker_name">Unicem Cement Company Calabar</p>
                         </div>
                     </div>
                 </div>
@@ -373,7 +373,7 @@
         <!-- Testimonial -->
         <section id="testimonial">
             <div class="container text-center testimonial_area">
-                <h2>Our Team</h2>
+                <h2>Directors</h2>
                 <h4>Below is our amazing team of experts and adminstrators</h4>
 
                 <div class="row">
@@ -420,41 +420,42 @@
          <!-- Testimonial -->
          <section id="testimonial">
             <div class="container text-center testimonial_area">
+                <h2>Our Team</h2>
                 <div class="row">
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content text-left">
-                              <h5>Pst. Ifuru Faith Nwankechukwu</h5>
+                              <h5>Mr Onwuadochi Christain C.</h5>
                             </div>
-                            <img src=".../../photos/CEO.jpg" alt="Testimonial" />
-                            <p class="worker_name">CEO/Director General</p>
+                            <img src=".../../photos/Mr onwuadochi christain.jpg" alt="Testimonial" />
+                            <p class="worker_name">General Manager</p>
                         </div>
                         </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content text-left">
-                                <h5>Mrs Ifuru Lucky Faith</h5>
+                                <h5>Mr Nwawumma Kingsley O.</h5>
                             </div>
-                            <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
-                            <p class="worker_name">Asst. Director General</p>
+                            <img src=".../../photos/Mr nwawumma kingsley.jpg" alt="Testimonial" />
+                            <p class="worker_name">General purchasing Manager</p>
                        </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <h5>Mr Ifuru Albert Faith</h5>
+                                <h5>Mr Ibeakuzie Stephen A.</h5>
                             </div>
-                            <img src=".../../photos/Director1.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
+                            <img src=".../../photos/Mr ibeakuzie stephen.jpg" alt="Testimonial" />
+                            <p class="worker_name">Chairman</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <h5>Mr Theophilus Nduka</h5>
+                                <h5>Engr. Benedict Nduwuma</h5>
                             </div>
-                            <img src=".../../photos/Director2.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
+                            <img src=".../../photos/Engr. benedict nduwumma.jpg" alt="Testimonial" />
+                            <p class="worker_name">Civil Engineer</p>
                         </div>
                     </div>
                 </div>
@@ -468,37 +469,37 @@
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content text-left">
-                              <h5>Pst. Ifuru Faith Nwankechukwu</h5>
+                              <h5>Mr Goodhope</h5>
                             </div>
-                            <img src=".../../photos/CEO.jpg" alt="Testimonial" />
-                            <p class="worker_name">CEO/Director General</p>
+                            <img src=".../../photos/Mr goodhope.jpg" alt="Testimonial" />
+                            <p class="worker_name">Safety Manager</p>
                         </div>
                         </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content text-left">
-                                <h5>Mrs Ifuru Lucky Faith</h5>
+                                <h5>Miss Nwarie Cynthia</h5>
                             </div>
-                            <img src=".../../photos/ASS. Director.jpg" alt="Testimonial" />
-                            <p class="worker_name">Asst. Director General</p>
+                            <img src=".../../photos/Miss Nwarie Cythia.jpg" alt="Testimonial" />
+                            <p class="worker_name">Purchasing Manager</p>
                        </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <h5>Mr Ifuru Albert Faith</h5>
+                                <h5>Mr Orji Okey Ezette</h5>
                             </div>
-                            <img src=".../../photos/Director1.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
+                            <img src=".../../photos/Mr orji okey.jpg" alt="Testimonial" />
+                            <p class="worker_name">Human Resource Manager</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <h5>Mr Theophilus Nduka</h5>
+                                <h5>Miss Nze Betty</h5>
                             </div>
                             <img src=".../../photos/Director2.jpg" alt="Testimonial" />
-                            <p class="worker_name">Director</p>
+                            <p class="worker_name">Catering Manager</p>
                         </div>
                     </div>
                 </div>
