@@ -498,7 +498,7 @@
                             <div class="testimonial_content">
                                 <h5>Miss Nze Betty</h5>
                             </div>
-                            <img src=".../../photos/Director2.jpg" alt="Testimonial" />
+                            <img src=".../../photos/mrs nze.jpg" alt="Testimonial" />
                             <p class="worker_name">Catering Manager</p>
                         </div>
                     </div>
@@ -535,7 +535,7 @@
             <!-- Footer top -->
             <div class="container footer_top">
                 <div class="row">
-                    <div class="col-lg-4 col-sm-7">
+                    <div class="col-lg-4 col-sm-5">
                         <div class="footer_item">
                             <h4>About Company</h4>
                             <img class="logo" src="images/logo.png" alt="Construction" />
@@ -550,22 +550,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-sm-5">
-                        <div class="footer_item">
-                            <h4>Directors</h4>
-                            <ul class="list-unstyled footer_menu">
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Our services</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Meet our team</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Help center</a>
-                                <li><a href="https://www.instagram.com/gods_chosen_erector_company/"><span class="fa fa-play"></span> Contact</a>
-                                <li><a href=""><span class="fa fa-play"></span> Forum</a>
-                                <li><a href=""><span class="fa fa-play"></span> Privacy Policy</a>
-                                <li><a href=""><span class="fa fa-play"></span> Cekas terms</a>
-                                <li><a href=""><span class="fa fa-play"></span> Site map</a>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-7">
+                    <div class="col-lg-4 col-sm-5">
                         <div class="footer_item">
                             <h4>Our Partners</h4>
                             <ul class="list-unstyled post">
@@ -580,7 +565,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-5">
+                    <div class="col-lg-4 col-sm-5">
                         <div class="footer_item">
                             <h4>Contact us</h4>
                             <ul class="list-unstyled footer_contact">
