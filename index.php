@@ -496,7 +496,7 @@
                     <div class="col-md-3">
                         <div class="testimonial_item">
                             <div class="testimonial_content">
-                                <h5>Miss Nze Betty</h5>
+                                <h5>Mrs Nze Betty</h5>
                             </div>
                             <img src=".../../photos/mrs nze.jpg" alt="Testimonial" />
                             <p class="worker_name">Catering Manager</p>
